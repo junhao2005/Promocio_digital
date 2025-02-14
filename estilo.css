@@ -168,3 +168,23 @@ th {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     text-align: left;
 }
+
+.img {
+    width: 35vh;
+    height: auto;
+    transition: transform 0.3s;
+}
+
+.img2 {
+    width: 55vh;
+    height: auto;
+    transition: transform 0.3s;
+}
+
+.img:hover{
+    transform: scale(1.1);
+}
+
+.img2:hover{
+    transform: scale(1.1);
+}
