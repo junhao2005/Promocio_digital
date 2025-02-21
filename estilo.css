@@ -169,6 +169,12 @@ th {
     text-align: left;
 }
 
+.logo{
+    width: 800px;
+    height: 350px;
+    
+}
+
 .img {
     width: 35vh;
     height: auto;
@@ -188,3 +194,6 @@ th {
 .img2:hover{
     transform: scale(1.1);
 }
+
+
+    
